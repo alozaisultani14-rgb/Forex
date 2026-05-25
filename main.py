@@ -1,4 +1,4 @@
-import telebot
+mport telebot
 from telebot import types
 import json
 import os
@@ -9,7 +9,7 @@ from datetime import datetime
 # ==========================================
 # CONFIGURATION
 # ==========================================
-TOKEN = "8751264368:AAFZlkwBJvdJyWyPHibBSQTklsn3FFhgmoE"
+TOKEN = "8751264368:AAEbpB4CP49P4gs3BV4i8YVt3NU7000mjV0"
 ADMIN_ID = 1927800325
 CHANNEL = "@FOREX_POWER_VIP"
 CHANNEL2 = "@FOREX_POWER_TRADER"
